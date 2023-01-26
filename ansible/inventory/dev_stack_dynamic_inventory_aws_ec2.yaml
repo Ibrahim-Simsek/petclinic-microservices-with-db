@@ -9,9 +9,8 @@ keyed_groups:
   - key: tags['Project']
     prefix: 'all_instances'
   - key: tags['Role']
-    prefix: 'halil'
+    prefix: 'role'
 hostnames:
   - "ip-address"
 compose:
   ansible_user: "'ubuntu'"
-
