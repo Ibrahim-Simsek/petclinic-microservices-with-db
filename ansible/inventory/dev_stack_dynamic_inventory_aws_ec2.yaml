@@ -9,7 +9,7 @@ keyed_groups:
   - key: tags['Project']
     prefix: 'all_instances'
   - key: tags['Role']
-    prefix: 'role'
+    prefix: 'halil'
 hostnames:
   - "ip-address"
 compose:
